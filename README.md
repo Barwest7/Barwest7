@@ -2,7 +2,8 @@
 
 I'm Bar, a CS student.
 Thank you for coming. You are more than welcome to take a look at my public projects and clone them for your own personal use.
-I'm always happy to hear new ideas. You can reach out at barwest@gmail.com
+
+I'm always happy to hear new ideas. You can share them with me by reaching out at barwest@gmail.com :)
 
 <!--
 **Barwest7/Barwest7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
